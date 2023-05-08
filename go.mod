@@ -1,4 +1,4 @@
-module github.com/arisatriop/go-module
+module github.com/arisatriop/go-modules
 
 go 1.17
 
